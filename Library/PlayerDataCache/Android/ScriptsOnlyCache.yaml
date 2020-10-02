@@ -29,23 +29,37 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11840}
+      Script: {instanceID: 11838}
     - Class: 114
-      Script: {instanceID: 13604}
+      Script: {instanceID: 13600}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
       Script: {instanceID: 0}
     - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 143
       Script: {instanceID: 0}
@@ -74,12 +88,6 @@ ScriptsOnlyBuild:
   scriptHashData:
   - hash:
       serializedVersion: 2
-      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.EventSystems
-    className: EventTrigger
-  - hash:
-      serializedVersion: 2
       Hash: aeb62f729c52c814dec86c47dcac1471
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -90,12 +98,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Button
-  - hash:
-      serializedVersion: 2
-      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: Image
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
@@ -276,6 +278,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
   - hash:
       serializedVersion: 2
       Hash: 718ef0ded913ba15da8a97ccf24793ce
@@ -1208,6 +1216,12 @@ ScriptsOnlyBuild:
     className: character_Movement
   - hash:
       serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
       Hash: 5dea360fb0b147724ac344e6f399c2f3
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -1314,7 +1328,37 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: AutoMobileShaderSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 89d5abb4b52c6f02064f2631b186e1b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TwinSceneScript
+  - hash:
+      serializedVersion: 2
+      Hash: c6551e07223e3e1d16f95c3717123d63
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ViewScript
+  - hash:
+      serializedVersion: 2
+      Hash: 7e10f4c9e57b69ddb6e50b659da9ff1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneScript
+  - hash:
+      serializedVersion: 2
+      Hash: 93b3fa2c0dfdc410a06428c596e55699
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Twin2ndSceneScript
+  - hash:
+      serializedVersion: 2
+      Hash: 284c4cd217202ee37fb0d9d980e1c567
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TwinViewScript
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/Users/Vic/Desktop/vr project/noman TEST 2.apk
+  playerPath: C:/Users/Alyssa/Desktop/test.apk
