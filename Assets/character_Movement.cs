@@ -9,7 +9,7 @@ public class character_Movement : MonoBehaviour
 	public float toggleAngle = 30.0f;
 	public float speed = 3.0f;
 	public bool moveForward;
-	private CharacterController cc;
+	public CharacterController cc;
 	
 
 
@@ -17,7 +17,7 @@ public class character_Movement : MonoBehaviour
    // Start is called before the first frame update
     void Start()
     {
-		cc = GetComponent<CharacterController>();
+		cc = GetComponentInParent<CharacterController> ();
     }
 
     // Update is called once per frame

@@ -39,7 +39,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 90
       Script: {instanceID: 0}
@@ -1242,7 +1244,7 @@ ScriptsOnlyBuild:
     className: Outline
   - hash:
       serializedVersion: 2
-      Hash: 4809dddb37220de913659e1b0ef81665
+      Hash: 2fcaa403d2da0385dadaec4e2e9c1cc2
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: character_Movement
@@ -1363,4 +1365,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Alyssa/Desktop/test.apk
+  playerPath: E:/Users/Vic/Desktop/vr project/group test 1.apk
