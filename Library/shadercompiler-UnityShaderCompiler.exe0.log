@@ -1,6 +1,26 @@
-Base path: 'E:/Users/Vic/Desktop/vr/2019.4.10f1/Editor/Data', plugins path 'E:/Users/Vic/Desktop/vr/2019.4.10f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: compileSnippet
-  api=9 type=0 insize=1258 outsize=2109 kw= pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
-Cmd: compileSnippet
-  api=9 type=1 insize=1258 outsize=0 kw= pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_ENABLE_REFLECTION_BUFFERS UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER SHADER_API_MOBILE UNITY_HARDWARE_TIER1 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: preprocess
+  insize=1181 outsize=1181 ok=1
+Cmd: preprocess
+  insize=2026 outsize=1241 ok=1
+Cmd: preprocess
+  insize=3412 outsize=1570 ok=1
+Cmd: preprocess
+  insize=1737 outsize=1081 ok=1
+Cmd: preprocess
+  insize=3160 outsize=1801 ok=1
+Cmd: preprocess
+  insize=1203 outsize=1203 ok=1
+Cmd: preprocess
+  insize=1665 outsize=984 ok=1
+Cmd: preprocess
+  insize=3377 outsize=1313 ok=1
+Cmd: preprocess
+  insize=2011 outsize=1056 ok=1
+Cmd: preprocess
+  insize=1874 outsize=1078 ok=1
+Cmd: preprocess
+  insize=1702 outsize=871 ok=1
+Cmd: preprocess
+  insize=6141 outsize=1540 ok=1
