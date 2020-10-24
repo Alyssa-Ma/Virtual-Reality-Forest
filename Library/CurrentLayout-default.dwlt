@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 15
+  controlID: 142
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 87
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 88
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,14 +344,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Users\Vic\Virtual-Reality-Forest
+  m_LastProjectPath: C:\Users\Alyssa\Desktop\Virtual-Reality-Forest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: ec3c0000
-    m_LastClickedID: 15596
-    m_ExpandedIDs: 00000000ec3c0000ee3c0000f03c0000f23c0000f43c0000f63c0000f83c0000503d000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 2a3f0000
+    m_LastClickedID: 16170
+    m_ExpandedIDs: 000000002a3f00002c3f00002e3f0000303f0000323f0000343f0000363f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec3c0000ee3c0000f03c0000f23c0000f43c0000f63c0000f83c0000
+    m_ExpandedIDs: 000000002a3f00002c3f00002e3f0000303f0000323f0000343f0000363f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 34800000
-      m_LastClickedID: 32820
-      m_ExpandedIDs: b2eaffffcaeaffff4eecffff1af2ffff32f2ffffc4f3ffff48fbffff5c36000062360000be550000d0550000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: d0cdffffe8cdffff6ccfffff72d6ffff74d6ffffb8d6ffffbad6fffffed6ffff00d7ffff08f1ffff38f8ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 10, y: 9.709999, z: 10}
+    m_Target: {x: 29.58403, y: 10.630232, z: 77.234375}
     speed: 2
-    m_Value: {x: 10, y: 9.709999, z: 10}
+    m_Value: {x: 29.58403, y: 10.630232, z: 77.234375}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -588,10 +588,10 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     yGrid:
       m_Fade:
         m_Target: 1
@@ -604,25 +604,25 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     m_ShowGrid: 1
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.23229612, y: 0.6528924, z: -0.22100747, w: 0.68624073}
+    m_Target: {x: 0.01566633, y: 0.97943807, z: -0.18278503, w: 0.08394678}
     speed: 2
-    m_Value: {x: 0.23229606, y: 0.65289223, z: -0.2210074, w: 0.68624055}
+    m_Value: {x: 0.015666317, y: 0.97943723, z: -0.18278489, w: 0.08394671}
   m_Size:
-    m_Target: 12.124355
+    m_Target: 5.9736166
     speed: 2
-    m_Value: 12.124355
+    m_Value: 5.9736166
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
