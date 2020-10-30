@@ -74,43 +74,43 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11344}
+      Script: {instanceID: 11370}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11374}
     - Class: 114
-      Script: {instanceID: 11350}
+      Script: {instanceID: 11376}
     - Class: 114
-      Script: {instanceID: 11354}
+      Script: {instanceID: 11380}
     - Class: 114
-      Script: {instanceID: 11356}
+      Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11862}
+      Script: {instanceID: 11856}
     - Class: 114
-      Script: {instanceID: 12150}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12620}
+      Script: {instanceID: 12614}
     - Class: 114
-      Script: {instanceID: 12892}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 12910}
+      Script: {instanceID: 12904}
     - Class: 114
-      Script: {instanceID: 12954}
+      Script: {instanceID: 12948}
     - Class: 114
-      Script: {instanceID: 13146}
+      Script: {instanceID: 13142}
     - Class: 114
-      Script: {instanceID: 13172}
+      Script: {instanceID: 13168}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 13214}
     - Class: 114
-      Script: {instanceID: 13410}
+      Script: {instanceID: 13400}
     - Class: 114
-      Script: {instanceID: 13588}
+      Script: {instanceID: 13408}
+    - Class: 114
+      Script: {instanceID: 13586}
+    - Class: 114
+      Script: {instanceID: 13644}
     - Class: 114
       Script: {instanceID: 13654}
-    - Class: 114
-      Script: {instanceID: 21734}
-    - Class: 114
-      Script: {instanceID: 21742}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1054,6 +1054,12 @@ ScriptsOnlyBuild:
     className: Explosive
   - hash:
       serializedVersion: 2
+      Hash: aeb8ef069620b53e16fe3868cde09eee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShowHideInfo
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: GoogleVR.VideoDemo
@@ -1174,6 +1180,12 @@ ScriptsOnlyBuild:
     className: EmulatorClientSocket
   - hash:
       serializedVersion: 2
+      Hash: df5fcbb22456360801308fe455e0c519
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GazeInteraction
+  - hash:
+      serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -1250,19 +1262,7 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: AutoMobileShaderSwitch
-  - hash:
-      serializedVersion: 2
-      Hash: aeb8ef069620b53e16fe3868cde09eee
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ShowHideInfo
-  - hash:
-      serializedVersion: 2
-      Hash: df5fcbb22456360801308fe455e0c519
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GazeInteraction
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Alyssa/Desktop/VR Forest tests/testtextbox.apk
+  playerPath: C:/Users/mluce/Desktop/hello.apk
