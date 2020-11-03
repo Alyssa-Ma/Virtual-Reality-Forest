@@ -3,9 +3,11 @@ ScriptsOnlyBuild:
     Assembly-CSharp-firstpass.dll:
     - UnityStandardAssets.Water.WaterBasic
     Assembly-CSharp.dll:
+    - Battery
     - Flash_Light
     - GazeInteraction
     - GvrEditorEmulator
+    - GvrPointerInputModule
     - GvrReticlePointer
     - ShowHideInfo
     - character_Movement
@@ -84,33 +86,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11856}
+      Script: {instanceID: 11888}
     - Class: 114
-      Script: {instanceID: 12144}
+      Script: {instanceID: 12176}
     - Class: 114
-      Script: {instanceID: 12614}
+      Script: {instanceID: 12646}
     - Class: 114
-      Script: {instanceID: 12886}
+      Script: {instanceID: 12918}
     - Class: 114
-      Script: {instanceID: 12904}
+      Script: {instanceID: 12936}
     - Class: 114
-      Script: {instanceID: 12948}
+      Script: {instanceID: 12980}
     - Class: 114
-      Script: {instanceID: 13142}
+      Script: {instanceID: 13174}
     - Class: 114
-      Script: {instanceID: 13168}
+      Script: {instanceID: 13200}
     - Class: 114
-      Script: {instanceID: 13214}
+      Script: {instanceID: 13246}
     - Class: 114
-      Script: {instanceID: 13400}
+      Script: {instanceID: 13432}
     - Class: 114
-      Script: {instanceID: 13408}
+      Script: {instanceID: 13440}
     - Class: 114
-      Script: {instanceID: 13586}
+      Script: {instanceID: 13606}
     - Class: 114
-      Script: {instanceID: 13644}
+      Script: {instanceID: 13618}
     - Class: 114
-      Script: {instanceID: 13654}
+      Script: {instanceID: 13676}
+    - Class: 114
+      Script: {instanceID: 13686}
+    - Class: 114
+      Script: {instanceID: 60198}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -874,7 +880,7 @@ ScriptsOnlyBuild:
     className: GvrControllerTooltipsSimple
   - hash:
       serializedVersion: 2
-      Hash: dbc7fa6eae8a78ad602cf33c3538fca6
+      Hash: acb27824bc5b0e09a0b4d0aa13a8b5a6
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Flash_Light
@@ -1262,7 +1268,13 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: AutoMobileShaderSwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 2b20a909c47ecfd05792594ed9e06906
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Battery
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/mluce/Desktop/hello.apk
+  playerPath: E:/Users/Vic/Desktop/vr project/sfdsafdsafsa.apk
