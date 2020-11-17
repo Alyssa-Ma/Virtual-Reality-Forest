@@ -4,11 +4,15 @@ ScriptsOnlyBuild:
     - UnityStandardAssets.Water.WaterBasic
     Assembly-CSharp.dll:
     - Battery
+    - Dropping
     - Flash_Light
     - GazeInteraction
     - GvrEditorEmulator
     - GvrPointerInputModule
+    - GvrPointerPhysicsRaycaster
     - GvrReticlePointer
+    - Holding
+    - RadialGazeTimer
     - ShowHideInfo
     - character_Movement
     Unity.Rider.Editor.dll:
@@ -86,37 +90,45 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11888}
+      Script: {instanceID: 11856}
     - Class: 114
-      Script: {instanceID: 12176}
+      Script: {instanceID: 12144}
     - Class: 114
-      Script: {instanceID: 12646}
+      Script: {instanceID: 12614}
     - Class: 114
-      Script: {instanceID: 12918}
+      Script: {instanceID: 12886}
     - Class: 114
-      Script: {instanceID: 12936}
+      Script: {instanceID: 12904}
     - Class: 114
-      Script: {instanceID: 12980}
+      Script: {instanceID: 12948}
     - Class: 114
-      Script: {instanceID: 13174}
+      Script: {instanceID: 12972}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 13030}
     - Class: 114
-      Script: {instanceID: 13246}
+      Script: {instanceID: 13144}
     - Class: 114
-      Script: {instanceID: 13432}
+      Script: {instanceID: 13148}
     - Class: 114
-      Script: {instanceID: 13440}
+      Script: {instanceID: 13172}
     - Class: 114
-      Script: {instanceID: 13606}
+      Script: {instanceID: 13218}
     - Class: 114
-      Script: {instanceID: 13618}
+      Script: {instanceID: 13404}
     - Class: 114
-      Script: {instanceID: 13676}
+      Script: {instanceID: 13412}
     - Class: 114
-      Script: {instanceID: 13686}
+      Script: {instanceID: 13578}
     - Class: 114
-      Script: {instanceID: 60198}
+      Script: {instanceID: 13590}
+    - Class: 114
+      Script: {instanceID: 13648}
+    - Class: 114
+      Script: {instanceID: 13658}
+    - Class: 114
+      Script: {instanceID: 31150}
+    - Class: 114
+      Script: {instanceID: 80904}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -140,6 +152,8 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
     - Class: 205
+      Script: {instanceID: 0}
+    - Class: 213
       Script: {instanceID: 0}
     - Class: 218
       Script: {instanceID: 0}
@@ -892,6 +906,12 @@ ScriptsOnlyBuild:
     className: AlphaButtonClickMask
   - hash:
       serializedVersion: 2
+      Hash: b9c299ffe6814b1b1ca652536c2954d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RadialGazeTimer
+  - hash:
+      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -962,6 +982,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 2b20a909c47ecfd05792594ed9e06906
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Battery
   - hash:
       serializedVersion: 2
       Hash: 77035de2f75c9d7a19377ef6002c9bd8
@@ -1270,11 +1296,17 @@ ScriptsOnlyBuild:
     className: AutoMobileShaderSwitch
   - hash:
       serializedVersion: 2
-      Hash: 2b20a909c47ecfd05792594ed9e06906
+      Hash: 3d73a93feb5d56d41ee7966659a5cb22
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Battery
+    className: Holding
+  - hash:
+      serializedVersion: 2
+      Hash: 1c2bb19cba83a1354eb64a582b37aef0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Dropping
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/Users/Vic/Desktop/vr project/sfdsafdsafsa.apk
+  playerPath: C:/Users/mluce/Desktop/Virtual-Reality-Forest/buildtest.apk
