@@ -90,45 +90,45 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11856}
+      Script: {instanceID: 11890}
     - Class: 114
-      Script: {instanceID: 12144}
+      Script: {instanceID: 12178}
     - Class: 114
-      Script: {instanceID: 12614}
+      Script: {instanceID: 12242}
     - Class: 114
-      Script: {instanceID: 12886}
+      Script: {instanceID: 12650}
     - Class: 114
-      Script: {instanceID: 12904}
+      Script: {instanceID: 12922}
     - Class: 114
-      Script: {instanceID: 12948}
+      Script: {instanceID: 12940}
     - Class: 114
-      Script: {instanceID: 12972}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13008}
     - Class: 114
-      Script: {instanceID: 13144}
+      Script: {instanceID: 13066}
     - Class: 114
-      Script: {instanceID: 13148}
+      Script: {instanceID: 13180}
     - Class: 114
-      Script: {instanceID: 13172}
+      Script: {instanceID: 13184}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 13208}
     - Class: 114
-      Script: {instanceID: 13404}
+      Script: {instanceID: 13254}
     - Class: 114
-      Script: {instanceID: 13412}
+      Script: {instanceID: 13440}
     - Class: 114
-      Script: {instanceID: 13578}
+      Script: {instanceID: 13448}
     - Class: 114
-      Script: {instanceID: 13590}
+      Script: {instanceID: 13614}
     - Class: 114
-      Script: {instanceID: 13648}
+      Script: {instanceID: 13626}
     - Class: 114
-      Script: {instanceID: 13658}
+      Script: {instanceID: 13684}
     - Class: 114
-      Script: {instanceID: 31150}
+      Script: {instanceID: 13694}
     - Class: 114
-      Script: {instanceID: 80904}
+      Script: {instanceID: 13786}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -574,6 +574,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.CrossPlatformInput
     className: Joystick
+  - hash:
+      serializedVersion: 2
+      Hash: 3d73a93feb5d56d41ee7966659a5cb22
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Holding
   - hash:
       serializedVersion: 2
       Hash: 4f631fd718256a8c69483c396671a274
@@ -1284,6 +1290,12 @@ ScriptsOnlyBuild:
     className: PlatformerCharacter2D
   - hash:
       serializedVersion: 2
+      Hash: 1c2bb19cba83a1354eb64a582b37aef0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Dropping
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1294,19 +1306,7 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Utility
     className: AutoMobileShaderSwitch
-  - hash:
-      serializedVersion: 2
-      Hash: 3d73a93feb5d56d41ee7966659a5cb22
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Holding
-  - hash:
-      serializedVersion: 2
-      Hash: 1c2bb19cba83a1354eb64a582b37aef0
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Dropping
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/mluce/Desktop/Virtual-Reality-Forest/buildtest.apk
+  playerPath: C:/Users/Alyssa/Desktop/VR Forest tests/testlog.apk
