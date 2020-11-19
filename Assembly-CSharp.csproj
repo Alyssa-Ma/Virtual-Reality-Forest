@@ -73,6 +73,7 @@
      <Compile Include="Assets\DialogueAssets\F5\DialogueTrigger5.cs" />
      <Compile Include="Assets\Dropping.cs" />
      <Compile Include="Assets\Flash_Light.cs" />
+     <Compile Include="Assets\FootSteps.cs" />
      <Compile Include="Assets\FurnishedCabin\Scripts\MoveObjectController.cs" />
      <Compile Include="Assets\FurnishedCabin\Scripts\MoveableObject.cs" />
      <Compile Include="Assets\GazeInteraction.cs" />
