@@ -30,6 +30,7 @@ ScriptsOnlyBuild:
     - Singledoor
     - character_Movement
     - pickupkey
+    - telly
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -163,25 +164,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13444}
     - Class: 114
-      Script: {instanceID: 13612}
+      Script: {instanceID: 13486}
     - Class: 114
       Script: {instanceID: 13614}
     - Class: 114
-      Script: {instanceID: 13626}
+      Script: {instanceID: 13616}
     - Class: 114
-      Script: {instanceID: 13646}
+      Script: {instanceID: 13628}
     - Class: 114
-      Script: {instanceID: 13684}
+      Script: {instanceID: 13648}
     - Class: 114
-      Script: {instanceID: 13688}
+      Script: {instanceID: 13686}
     - Class: 114
-      Script: {instanceID: 13692}
+      Script: {instanceID: 13690}
     - Class: 114
-      Script: {instanceID: 13702}
+      Script: {instanceID: 13694}
     - Class: 114
-      Script: {instanceID: 13794}
+      Script: {instanceID: 13704}
     - Class: 114
-      Script: {instanceID: 28626}
+      Script: {instanceID: 13796}
+    - Class: 114
+      Script: {instanceID: 29300}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1249,6 +1252,12 @@ ScriptsOnlyBuild:
     className: WaterTile
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: telly
+  - hash:
+      serializedVersion: 2
       Hash: df64ad7cdad89053ed97218d03e92c1f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Gvr.Internal
@@ -1460,4 +1469,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/Users/Vic/Desktop/vr project/ngfnfgnfg.apk
+  playerPath: E:/Users/Vic/Desktop/vr project/fsdfdsfsd.apk

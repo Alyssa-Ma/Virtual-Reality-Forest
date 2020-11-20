@@ -219,6 +219,7 @@
      <Compile Include="Assets\character_Movement.cs" />
      <Compile Include="Assets\pickupkey.cs" />
      <Compile Include="Assets\playerco.cs" />
+     <Compile Include="Assets\telly.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
