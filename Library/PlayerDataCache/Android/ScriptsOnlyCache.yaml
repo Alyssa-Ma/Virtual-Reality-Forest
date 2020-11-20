@@ -184,7 +184,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13796}
     - Class: 114
-      Script: {instanceID: 29300}
+      Script: {instanceID: 25604}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1469,4 +1469,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/Users/Vic/Desktop/vr project/fsdfdsfsd.apk
+  playerPath: E:/Users/Vic/Desktop/vr project/gdfsgfdgdfsg.apk

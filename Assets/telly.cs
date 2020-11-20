@@ -18,7 +18,7 @@ public class telly : MonoBehaviour
 
     void OnTriggerEnter(Collider col)
     {
-        col.transform.position = new Vector3 (12, 11, -21);
+        col.transform.position = new Vector3 (-30, 25, 70);
     }
 
 }
