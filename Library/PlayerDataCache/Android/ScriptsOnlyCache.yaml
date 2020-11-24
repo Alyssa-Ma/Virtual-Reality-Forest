@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - UnityStandardAssets.Water.WaterBasic
     Assembly-CSharp.dll:
     - Battery
+    - BridgeManager
     - DialogueManager1
     - DialogueManager2
     - DialogueManager3
@@ -118,91 +119,93 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11482}
+      Script: {instanceID: 11486}
     - Class: 114
-      Script: {instanceID: 11572}
+      Script: {instanceID: 11498}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11578}
     - Class: 114
-      Script: {instanceID: 11866}
+      Script: {instanceID: 11734}
     - Class: 114
-      Script: {instanceID: 11958}
+      Script: {instanceID: 11830}
     - Class: 114
-      Script: {instanceID: 12016}
+      Script: {instanceID: 11874}
     - Class: 114
-      Script: {instanceID: 12042}
+      Script: {instanceID: 11968}
     - Class: 114
-      Script: {instanceID: 12076}
+      Script: {instanceID: 12026}
     - Class: 114
-      Script: {instanceID: 12162}
+      Script: {instanceID: 12052}
     - Class: 114
-      Script: {instanceID: 12226}
+      Script: {instanceID: 12086}
     - Class: 114
-      Script: {instanceID: 12240}
+      Script: {instanceID: 12172}
     - Class: 114
-      Script: {instanceID: 12308}
+      Script: {instanceID: 12236}
     - Class: 114
-      Script: {instanceID: 12372}
+      Script: {instanceID: 12250}
     - Class: 114
-      Script: {instanceID: 12640}
+      Script: {instanceID: 12318}
     - Class: 114
-      Script: {instanceID: 12658}
+      Script: {instanceID: 12382}
     - Class: 114
-      Script: {instanceID: 12700}
+      Script: {instanceID: 12650}
     - Class: 114
-      Script: {instanceID: 12914}
+      Script: {instanceID: 12668}
     - Class: 114
-      Script: {instanceID: 12932}
+      Script: {instanceID: 12710}
     - Class: 114
-      Script: {instanceID: 12974}
+      Script: {instanceID: 12924}
     - Class: 114
-      Script: {instanceID: 12978}
+      Script: {instanceID: 12942}
     - Class: 114
-      Script: {instanceID: 12992}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13004}
+      Script: {instanceID: 12988}
     - Class: 114
-      Script: {instanceID: 13012}
+      Script: {instanceID: 13002}
     - Class: 114
-      Script: {instanceID: 13064}
+      Script: {instanceID: 13014}
     - Class: 114
-      Script: {instanceID: 13178}
+      Script: {instanceID: 13022}
     - Class: 114
-      Script: {instanceID: 13182}
+      Script: {instanceID: 13074}
     - Class: 114
-      Script: {instanceID: 13206}
+      Script: {instanceID: 13188}
     - Class: 114
-      Script: {instanceID: 13252}
+      Script: {instanceID: 13192}
     - Class: 114
-      Script: {instanceID: 13448}
+      Script: {instanceID: 13216}
     - Class: 114
-      Script: {instanceID: 13490}
+      Script: {instanceID: 13262}
     - Class: 114
-      Script: {instanceID: 13618}
+      Script: {instanceID: 13458}
     - Class: 114
-      Script: {instanceID: 13620}
+      Script: {instanceID: 13500}
     - Class: 114
-      Script: {instanceID: 13622}
+      Script: {instanceID: 13628}
     - Class: 114
-      Script: {instanceID: 13634}
+      Script: {instanceID: 13630}
     - Class: 114
-      Script: {instanceID: 13654}
+      Script: {instanceID: 13632}
     - Class: 114
-      Script: {instanceID: 13692}
+      Script: {instanceID: 13644}
     - Class: 114
-      Script: {instanceID: 13696}
+      Script: {instanceID: 13664}
     - Class: 114
-      Script: {instanceID: 13700}
+      Script: {instanceID: 13702}
+    - Class: 114
+      Script: {instanceID: 13706}
     - Class: 114
       Script: {instanceID: 13710}
     - Class: 114
-      Script: {instanceID: 13802}
+      Script: {instanceID: 13720}
     - Class: 114
-      Script: {instanceID: 116748}
+      Script: {instanceID: 13812}
     - Class: 114
-      Script: {instanceID: 116750}
+      Script: {instanceID: 37208}
     - Class: 114
-      Script: {instanceID: 172152}
+      Script: {instanceID: 166578}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -352,6 +355,12 @@ ScriptsOnlyBuild:
     className: EditorCameraOriginDict
   - hash:
       serializedVersion: 2
+      Hash: 613c45e1667023a0230f3a02f3f2898f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DialogueTrigger6
+  - hash:
+      serializedVersion: 2
       Hash: 3748fbad2d474a315bda516b8363a0c5
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Effects
@@ -470,6 +479,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp-firstpass.dll
     namespaceName: UnityStandardAssets.Water
     className: WaterBase
+  - hash:
+      serializedVersion: 2
+      Hash: d5694f5a64249550875b3195f36659b5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DialogueManager6
   - hash:
       serializedVersion: 2
       Hash: 7ab0e790220bdca831fdd886b339039d
@@ -1066,7 +1081,7 @@ ScriptsOnlyBuild:
     className: AlphaButtonClickMask
   - hash:
       serializedVersion: 2
-      Hash: b9c299ffe6814b1b1ca652536c2954d7
+      Hash: 51c86ddabdc6b845b31331a4209d573a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RadialGazeTimer
@@ -1504,17 +1519,11 @@ ScriptsOnlyBuild:
     className: AutoMobileShaderSwitch
   - hash:
       serializedVersion: 2
-      Hash: 613c45e1667023a0230f3a02f3f2898f
+      Hash: 80775070392b9fdefd64739e9b991894
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: DialogueTrigger6
-  - hash:
-      serializedVersion: 2
-      Hash: d5694f5a64249550875b3195f36659b5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DialogueManager6
+    className: BridgeManager
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Alyssa/Desktop/VR Forest tests/finaltest.apk
+  playerPath: C:/Users/mluce/Desktop/b1.apk

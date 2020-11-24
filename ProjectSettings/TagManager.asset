@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Flash_Light
   - key
+  - BridgePiece
   layers:
   - Default
   - TransparentFX

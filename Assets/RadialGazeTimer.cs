@@ -6,22 +6,22 @@ using UnityEngine.UI;
 public class RadialGazeTimer : MonoBehaviour
 {
     public float radialTimer = 0f;
-    public Transform radialProgress;
+    // public Transform radialProgress;
     public GameObject scriptButler;
 
     // Start is called before the first frame update
-    void Start()
-    {
-        radialProgress.GetComponent<Image>().fillAmount = radialTimer;
+    // void Start()
+    // {
+    //     radialProgress.GetComponent<Image>().fillAmount = radialTimer;
         
-    }
+    // }
 
     // Update is called once per frame
     void Update()
     {
         radialTimer += Time.deltaTime;
 
-        radialProgress.GetComponent<Image>().fillAmount = radialTimer / 2;
+        // radialProgress.GetComponent<Image>().fillAmount = radialTimer / 2;
 
         if (radialTimer >= 2f)
         {
@@ -33,7 +33,7 @@ public class RadialGazeTimer : MonoBehaviour
     public void Reset()
     {
         radialTimer = 0f;
-        radialProgress.GetComponent<Image>().fillAmount = radialTimer;
+        // radialProgress.GetComponent<Image>().fillAmount = radialTimer;
 
     }
 
