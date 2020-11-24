@@ -7,7 +7,7 @@ public class TpWallsDown : MonoBehaviour
     public GameObject obj;
     void Update()
     {
-        if(FoundSystem.theScore == 5)
+        if(FoundSystem.theScore == 7)
         {
             Destroy(gameObject);
         }
