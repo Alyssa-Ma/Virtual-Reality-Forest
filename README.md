@@ -1,4 +1,5 @@
 # Virtual-Reality-Forest
+Group 9
 A Maze-Like VR Game Set in an Immersive Night Forest
 
 1. Clone/Download repository onto computer.
