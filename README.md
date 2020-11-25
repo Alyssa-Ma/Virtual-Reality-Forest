@@ -12,6 +12,7 @@ Usage Instructions:
 2. Run using UnityHub. Make sure to run on Unity Version 2019.4.10f1
 3. You can run the project by pressing play.
 4. You can also build the project to run on an Android phone by going into File-> Build Settings -> Build and Run.
+5. Download the apk via the apk_file link onto and Android device and run via the apk.
 
 Notes: 
 - Only Works on Android Compatable Mobile Devices that have support for Google Cardboard VR (does not work on ios)
