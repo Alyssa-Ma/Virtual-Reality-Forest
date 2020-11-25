@@ -216,6 +216,7 @@
      <Compile Include="Assets\MissionWaypoint.cs" />
      <Compile Include="Assets\Opendoor.cs" />
      <Compile Include="Assets\PlayerCollision.cs" />
+     <Compile Include="Assets\RadialGazeTimer.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
