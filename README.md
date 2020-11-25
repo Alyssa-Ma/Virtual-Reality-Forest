@@ -18,4 +18,5 @@ Notes:
 - Google Cardboard VR Reccomended, no other headset was tested for compatability. 
 
 Collaborators: Noman Ahmad, Michelle Lucero, Alyssa Ma, Victor Huang
+
 Moderator: Dr. Oyewole Oyekoya, Hunter College
