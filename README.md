@@ -1,5 +1,6 @@
 # Virtual-Reality-Forest 
-Check out our demo here! [Demo](https://youtu.be/l3_UoTF6bys)
+Check out our demo here! 
+[Demo](https://youtu.be/l3_UoTF6bys)
 
 ## Navigation
 * [Description](#description)
@@ -36,6 +37,7 @@ Notes:
 
 ## Screenshots
 
+<img src="https://github.com/Alyssa-Ma/Virtual-Reality-Forest/blob/master/Demo%20Screenshots/1.png">
 
 [Back to Navigation](#navigation)
 
